@@ -1,5 +1,5 @@
-# puzzle
+## puzzles (Web)
 
-# Ask Questions, Get Answers (Web)
+[Ask Questions](https://github.com/joeyguo/puzzle/issues/new)&nbsp;&nbsp;&nbsp; [View Questions](https://github.com/joeyguo/puzzle/issues) 
+---
 
-注：见 [Issues](https://github.com/joeyguo/puzzle/issues)
